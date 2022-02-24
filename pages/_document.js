@@ -16,8 +16,8 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
 
-          <title>MSTSKP</title>
-          <link rel="shortcut icon" href="/images/favicon.png" />
+          <title>Metaverse</title>
+          <link rel="shortcut icon" href="/logo.png" />
         </Head>
         <body>
           <Main />
